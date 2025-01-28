@@ -1,2 +1,2 @@
 # Cricshot-Analysis
-AI project to detect and analyse batting styles of two cricket players
+In the CricShot Analysis project, advanced Artificial Intelligence is employed using a sophisticated model based on the EfficientNet framework to classify cricket shot videos into distinct categories with a remarkable 94% accuracy.
